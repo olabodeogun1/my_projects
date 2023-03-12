@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Random Password Generator.
 # Length can be modified from the code.
 
